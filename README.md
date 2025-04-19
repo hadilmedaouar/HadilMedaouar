@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadilmedaouar&label=Profile%20views&color=0e75b6&style=flat" alt="hadilmedaouar" /> </p>
 
-- 🌱 I’m currently learning **Computer Science**
-
-- 💬 Ask me about **C++,HTML,CSS...**
+- 🌱 I’m currently learning **Computer Science and Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
